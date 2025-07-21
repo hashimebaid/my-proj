@@ -1,6 +1,8 @@
 h1{
     color: rgb(0, 94, 177);
+    justify-content: center;
 }
 body{
     background-color: aqua;
+    justify-content: center;
 }
